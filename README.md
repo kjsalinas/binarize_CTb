@@ -6,4 +6,5 @@ ex. load_for_binarization('CTb') will load a tiff or png file that includes "CTb
 
 binarizeCTb_hist.m binarized CTb following a detection algorithm (Morimoto et al., 2021, linked below) with some modifications for Callaway lab flour microscopy imaging. 
 Output is a binarized image of labeled cells. 
+
 Reference : https://www.sciencedirect.com/science/article/pii/S2589004221004181#fig2
